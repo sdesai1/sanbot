@@ -1,5 +1,6 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Sanyukta, a MBA student at INSEAD.\n![Sanyukta](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about San? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about San](postback:learn_about_San) %[One random fact!](postback:random_fact)",
+    "BOT": "Hi there!\nI’m the personal bot of Sanyukta, a MBA student at INSEAD. We call her San.\n![Sanyukta](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about San? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about San](postback:learn_about_San) %[One random fact!](postback:random_fact)",
+    "Hi": "Schweeet! Let's dooo this!\nWant to learn more about San? Should we start at the beginning or do you want a random fact %[Start at the beginning](postback:start_at_the_beginning) %[Learn about San](postback:learn_about_San) %[One random fact!](postback:random_fact)",
     "HELLO": "Hey, I'm so glad you set SanBot up! Do you want to tell San that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ San so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
