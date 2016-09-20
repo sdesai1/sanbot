@@ -3,10 +3,6 @@
   "version": "1.0.4",
   "description": "Build your own chat bot on top of smooch.io",
   "author": "Andrew Lavers <alavers@system42.net>",
-  "main": "index.js",
-  "engines": {
-    "node": ">=4.2.2",
-    "npm": ">=3.7.0"
   },
   "scripts": {
     "start": "node heroku"
