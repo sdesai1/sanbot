@@ -3,11 +3,9 @@
   "version": "1.0.4",
   "description": "Build your own chat bot on top of smooch.io",
   "author": "Andrew Lavers <alavers@system42.net>",
-  },
   "scripts": {
     "start": "node heroku",
     "test": "mocha"
-  },
   },
   "repository": {
     "type": "git",
